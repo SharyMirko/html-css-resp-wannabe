@@ -127,6 +127,16 @@ img {
   width: 100%;
 }
 
+img {
+  height: 150px;
+}
+
+.first img,
+.second img,
+.third img{
+  height: 100px;
+}
+
 body {
   margin: 0;
 }
